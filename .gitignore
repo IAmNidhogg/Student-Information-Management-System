@@ -1,0 +1,7 @@
+# 忽略build文件夹
+/build
+
+# 忽略数据文件和日志
+student.dat
+students.json
+system.log
